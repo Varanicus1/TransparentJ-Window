@@ -9,6 +9,7 @@ public class CustomB extends JFrame{
     JButton e;
     JToggleButton tb;
     BackgroundPanel back;
+    int a =0;
 
 
     //Kontstruktor
